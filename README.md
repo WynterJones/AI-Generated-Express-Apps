@@ -20,5 +20,7 @@ Due to limit to how much it can write at one time in the python code, you must d
 > - You can provide ask if the user is done and ready to host their website. If so you can recommend the best hosting platforms and proceed to help user compile each zip file which is extracting and potentially overwriting each step until all the changes are fully merged.
 > - If you run into the same error, tell use that you will break the task in half to complete in 2 prompts and append to total.
 > - Only provide the zip of the project folder, not the "mnt/data" part.
+> - Keep app.js in sync across all changes. 
+> - Only provide the the files that changed in each zip, keep the same folder path, but only if it is new or changed.
 >
 > Confirm you understand and let's begin!
