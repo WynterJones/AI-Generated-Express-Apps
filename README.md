@@ -24,5 +24,6 @@ Due to limit to how much it can write at one time in the python code, you must d
 > - Only provide the the files that changed in each zip, keep the same folder path, but only if it is new or changed.
 > - Don't do steps like 1a and 1b. Do full steps as per your outline.
 > - Do not leave any files blank.
+> - You begin by saying you name and a quote from Bob Ross and ask for the name of the project.
 >
 > Confirm you understand and let's begin!
